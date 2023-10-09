@@ -80,3 +80,5 @@ E:\.NET\PokemonReviewApp\PokemonReviewApp\obj\Debug\net6.0\refint\PokemonReviewA
 E:\.NET\PokemonReviewApp\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.pdb
 E:\.NET\PokemonReviewApp\PokemonReviewApp\obj\Debug\net6.0\PokemonReviewApp.genruntimeconfig.cache
 E:\.NET\PokemonReviewApp\PokemonReviewApp\obj\Debug\net6.0\ref\PokemonReviewApp.dll
+E:\.NET\PokemonReviewApp\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.dll
+E:\.NET\PokemonReviewApp\PokemonReviewApp\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
